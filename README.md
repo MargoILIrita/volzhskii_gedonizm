@@ -50,14 +50,14 @@
 
 <table cellspacing="0">
    <tr>
-    <td style="width: 600px;">
+    <td style="width: 500px;">
         <picture>
         <source srcset="files/img_2254.jpeg">
         <img src="files/img_2254.jpeg">
         </picture>
         <blockquote>"Незабываемый чилл на Волге"</blockquote>
     </td>
-    <td style="width: 400px;">
+    <td style="width: 500px;">
         <picture>
         <source srcset="files/img_7394.jpeg">
         <img src="files/img_7394.jpeg">
@@ -112,14 +112,14 @@
   
 <table cellspacing="0">
    <tr>
-    <td style="width: 600px;">
+    <td style="width: 500px;">
         <blockquote>Иван настоятельно рекомендует!</blockquote>
         <picture>
             <source srcset="files/img_7406.jpeg">
             <img src="files/img_7406.jpeg">
         </picture>
     </td>
-    <td style="width: 400px;">
+    <td style="width: 500px;">
         <picture>
         <source srcset="files/img_7401.jpeg">
         <img src="files/img_7401.jpeg">
