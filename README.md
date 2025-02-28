@@ -2,15 +2,14 @@
 
 <table cellspacing="0">
    <tr>
-    <td style="width: 600px;">
+    <td style="width: 400px;">
         <picture>
         <source srcset="files/img_4721.jpeg">
         <img src="files/img_4721.jpeg">
         </picture>
     </td>
-    <td style="width: 400px;">
+    <td style="width: 600px;">
 Привет! Меня зовут Маргарита, и я выросла в прекрасном городе Самаре. Хотя сейчас я живу в Москве, но моя душа остается в родных местах, особенно когда наступает лето. Именно в это время город оживает и наполняется особенной атмосферой расслабления и радости.
-
 </td>
    </tr>
   </table>
@@ -51,14 +50,14 @@
 
 <table cellspacing="0">
    <tr>
-    <td style="width: 400px;">
+    <td style="width: 600px;">
         <picture>
         <source srcset="files/img_2254.jpeg">
         <img src="files/img_2254.jpeg">
         </picture>
         <blockquote>"Незабываемый чилл на Волге"</blockquote>
     </td>
-    <td style="width: 500px;">
+    <td style="width: 400px;">
         <picture>
         <source srcset="files/img_7394.jpeg">
         <img src="files/img_7394.jpeg">
@@ -90,13 +89,13 @@
 
 <table cellspacing="0">
    <tr>
-    <td style="width: 600px;">
+    <td style="width: 400px;">
         <picture>
         <source srcset="files/img_7397.jpeg">
         <img src="files/img_7397.jpeg">
         </picture>
     </td>
-    <td style="width: 400px;">
+    <td style="width: 600px;">
         <blockquote>Я с таким трепетом вспоминаю о Самаре, было так душевно и тепло, что мы недавно даже обсуждали с Сашей, что хочется вернуться. Мне, кажется, все было супер, был спорт: Вейки, сапы, экскурсии, совместные вылазки на завтраки и ужины + работа, может какие-то еще совместные активности, по типу квестов, но в целом, все было супер!</blockquote>
         <picture>
         <source srcset="files/img_9893.jpeg">
@@ -113,14 +112,14 @@
   
 <table cellspacing="0">
    <tr>
-    <td style="width: 400px;">
+    <td style="width: 600px;">
         <blockquote>Иван настоятельно рекомендует!</blockquote>
         <picture>
             <source srcset="files/img_7406.jpeg">
             <img src="files/img_7406.jpeg">
         </picture>
     </td>
-    <td style="width: 600px;">
+    <td style="width: 400px;">
         <picture>
         <source srcset="files/img_7401.jpeg">
         <img src="files/img_7401.jpeg">
