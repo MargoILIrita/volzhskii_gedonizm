@@ -103,8 +103,6 @@ https://yandex.ru/maps/-/CCUJ5AaSOA
 https://yandex.ru/maps/-/CCUJ5Ae2CA   
 👍🏻Отто, да это барбершоп, но выпить коктейль с кранов можно)
 https://yandex.ru/maps/-/CCUJ5Ar9OC   
-Милорад - безумно маленький и атмосферный бар [https://www.instagram.com/milorad\_bar/?hl=ru](https://www.instagram.com/milorad_bar/?hl=ru)
-[https://yandex.ru/maps/-/CCUJ5AGndD](https://yandex.ru/maps/-/CCUJ5AGndD)   
 Волжаина - идем туда за коктейлем Секс за Волгой (и блюдами из волжской рыбы)   
 [Яндекс](https://yandex.ru/maps/-/CDv7E2jR)    
 Napi: Bar. Как в Питере: бар в парадной
